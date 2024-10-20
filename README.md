@@ -28,3 +28,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanomar0013&show_icons=true&locale=en&layout=compact" alt="sultanomar0013" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanomar0013&show_icons=true&locale=en" alt="sultanomar0013" /></p>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Sultanomar0013/langs)](https://githubtrends.io)
+
