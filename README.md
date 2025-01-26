@@ -41,6 +41,9 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer** with a k
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+#### API Testing Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 ---
 
 ### 📊 GitHub Statistics
